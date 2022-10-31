@@ -7,18 +7,18 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤- Collaborator 3 🔰', true],
-  ['50246028932', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
-  ['51936767238'],
-  ['584125778026']
+  ['524531106422', '🔰  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 - Creador 🔰'𝐀𝐋𝐄𝐗𝐈𝐒, true],
+  ['', '🔰   🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁   - Collaborator 1 🔰', true],
+  [', '🔰  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁- Collaborator 3 🔰', true],
+  ['', '🔰    🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁  -  Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛  4 🔰', true],
+  ['', '🔰   🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁   - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 5 🔰', true],
+  [''],
+  ['']
 
 ] 
-global.suittag = ['593959425714'] 
-global.mods = ['595986674310'] 
-global.prems = [] 
+global.suittag = [''] 
+global.mods = [''] 
+global.prems = [524531106422] 
 
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -73,39 +73,39 @@ global.APIKeys = { // APIKey Here
 }
 
 // _______________ IDIOMA : LENGUAJE _______________
-//Agrega el Idioma que quieres que tenga DorratBot-MD
-//Add the language you want DorratBot-MD to have
+//Agrega el Idioma que quieres que tenga Miker-Bot
+//Add the language you want Miker-bot to have
 //  es = Español       //  id = Bahasa Indonesia
 //  en = English       //  pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es //Idioma de †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤, Ejemplo: es | en | pt ....
+global.lenguajeGB = es //Idioma de   🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 , Ejemplo: es | en | pt ....
 
 /* ______________________________________________ */
-global.creadorname = '𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂'
+global.creadorname = '𝐀𝐋𝐄𝐗𝐈𝐒'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
-global.vs = '1.3.0'
+global.vs = '1.5.0'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = '  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 '
+global.wm = '  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁  | 𝐀𝐋𝐄𝐗𝐈𝐒'
+global.igfg = '  🍁𝐌𝐈𝐊𝐄𝐑-𝐁𝐎𝐓🍁 '
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h'
+global.md = 'en desarrollo'
 global.dorramd = md
 
 /* _____________________________________________ */
 
-global.ag = '━━━━━━━ ❎ 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 | 𝚆𝙰𝚁𝙽𝙸𝙽𝙶 ❎ ━━━━━━━━━'
+global.ag = '━━━━━━━ ❗ 𝙰𝙳𝚅𝙴𝚁𝚃𝙴𝙽𝙲𝙸𝙰 | 𝚆𝙰𝚁𝙽𝙸𝙽𝙶 ❗ ━━━━━━━━━'
 global.advertencia = ag
 global.fg = '☆━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻𝙻 ⚠️ ━━━☆'
 global.fallo = fg
-global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
+global.mg = '══ ❌ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❌ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = 'Miker-Bot'
 global.DORRA = dorre
 
 /* Imagenes___________________ */
